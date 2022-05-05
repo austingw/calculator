@@ -1,0 +1,70 @@
+.calBody {
+  width: 300px;
+  height: 400px;
+  border: 2px solid;
+  border-radius: 15px;
+  padding: 20px;
+  background-color: green;
+  
+  
+}
+
+.userInputs {
+}
+
+.output {
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background: lightcoral;
+    text-align: right;
+    word-wrap: break-word;
+    word-break: break-all;
+    
+}
+
+.currentNumber {
+    min-height: 64px;
+  font-size: 40px;
+}
+
+.number {
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: lightblue;
+    font-size: 20px;
+  }
+
+.operator {
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: lightyellow;
+    font-size: 20px;
+}
+
+.decimal {
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: lightyellow;
+    font-size: 20px;
+}
+
+.allClear {
+    padding: 20px 12px;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: lightyellow;
+    font-size: 20px;
+}
+
+.equal {
+    padding: 20px 110px;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: lightyellow;
+    font-size: 20px;
+}
